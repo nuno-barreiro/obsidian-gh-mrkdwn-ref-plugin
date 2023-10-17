@@ -1,0 +1,14 @@
+# npm
+node_modules
+
+# compiled output
+src/**/*.js
+
+# sourcemaps
+*.map
+
+# obsidian 
+data.json
+
+# test reports
+coverage

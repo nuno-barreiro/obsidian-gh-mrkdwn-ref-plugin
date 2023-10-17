@@ -1,0 +1,11 @@
+{
+    "id": "github-markdown-reference",
+    "author": "Nuno Barreiro",
+    "minAppVersion": "1.4",
+    "name": "GitHub Markdown Reference",
+    "description": "GitHub Markdown Reference",
+    "version": "0.1",
+    "authorUrl": "https://nunobarreiro.com",
+    "fundingUrl": null,
+    "isDesktopOnly": true
+}
